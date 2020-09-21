@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\KIRTAN\Desktop\SFML\GAME1\GAME1\Game.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KIRTAN\Desktop\SFML\GAME1\GAME1\Game.cpp(168,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KIRTAN\Desktop\SFML\GAME1\GAME1\Game.cpp(173,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\KIRTAN\Desktop\SFML\GAME1\GAME1\Game.cpp(175,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\KIRTAN\Desktop\SFML\GAME1\GAME1\Game.cpp(177,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\KIRTAN\Desktop\SFML\GAME1\GAME1\Game.cpp(179,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\KIRTAN\Desktop\SFML\GAME1\GAME1\Game.cpp(181,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  GAME1.vcxproj -> C:\Users\KIRTAN\Desktop\SFML\GAME1\Debug\GAME1.exe

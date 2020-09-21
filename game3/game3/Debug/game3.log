@@ -1,0 +1,5 @@
+﻿  game.cpp
+C:\Users\KIRTAN\Desktop\SFML\game3\game3\game.cpp(181,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\KIRTAN\Desktop\SFML\game3\game3\game.cpp(184,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KIRTAN\Desktop\SFML\game3\game3\game.cpp(189,21): warning C4018: '<': signed/unsigned mismatch
+  game3.vcxproj -> C:\Users\KIRTAN\Desktop\SFML\game3\Debug\game3.exe
